@@ -1,0 +1,37 @@
+h1, h2{
+    color: rgb(12, 12, 94);
+    font-family: "Helvetica", sans-serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+
+
+}
+
+p, h1, h2 {
+    font-family: "Helvetica", sans-serif;
+}
+
+p {
+    color: rgb(59, 51, 51);
+}
+
+li {
+    color: rgb(59, 51, 51);
+    text-align: left;
+}
+
+* {
+    text-align: center;
+}
+
+h2#description {
+    text-align: center;
+}
+
+h2.ing {
+    text-align: left;
+}
+
